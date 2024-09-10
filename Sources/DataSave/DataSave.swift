@@ -1,4 +1,11 @@
-//This Code Is Owned By LAI HONG YU
+///////////////////////////////////////////////////////////////////////////////////////
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU IN SSTINC//
+///////////////////////////////////////////////////////////////////////////////////////
 import Foundation
 
 public struct DataSave {
