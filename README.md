@@ -1,6 +1,6 @@
 # DataSave
 
-`DataSave` is a Swift Package that provides a simple, generic interface for saving and retrieving any `Encodable` and `Decodable` data type to and from `UserDefaults`.
+`DataSave` is a Swift Package that provides a simple, generic interface for saving and retrieving any `Encodable` and `Decodable` data type to and from `UserDefaults`. You also do not need to encode and decode your data as it does it for you.
 
 ## Features
 
