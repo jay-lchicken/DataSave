@@ -1,10 +1,10 @@
 ///////////////////////////////////////////////////////////////////////////////////////
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
-//THIS IS MADE BY LAI HONG YU IN SSTINC//
+//THIS IS MADE BY LAI HONG YU //
+//THIS IS MADE BY LAI HONG YU //
+//THIS IS MADE BY LAI HONG YU //
+//THIS IS MADE BY LAI HONG YU //
+//THIS IS MADE BY LAI HONG YU //
+//THIS IS MADE BY LAI HONG YU //
 ///////////////////////////////////////////////////////////////////////////////////////
 import Foundation
 
